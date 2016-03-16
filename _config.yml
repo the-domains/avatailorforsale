@@ -1,0 +1,28 @@
+name: Avatailorforsale
+favicon: null
+layout_spectrum: 0.1795452164951712
+typography_spectrum: 0.01740436814725399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.681598074035719
+  lightness: 0.15990986651740968
+  saturation: 0.127733200090006
+  rhythmicContrast: 0.03975996095687151
+purpose: []
